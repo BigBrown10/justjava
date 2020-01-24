@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="order">ORDER</string>
+    <string name="thank_you">Thank you</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whippedcream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Name">Name</string>
+    <string name="name">Name</string>
+    <string name="quantity">QUANTITY</string>
+</resources>
